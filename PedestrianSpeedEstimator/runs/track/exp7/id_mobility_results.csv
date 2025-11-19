@@ -1,0 +1,8 @@
+id,class,start_frame,end_frame,start_time_sec,end_time_sec
+1,children_wo_disability,2,244,0.07,8.13
+6,non_vulnerable,2,509,0.07,16.96
+31,non_vulnerable,203,472,6.77,15.73
+255,non_vulnerable,1975,2925,65.82,97.48
+472,non_vulnerable,3500,4653,116.65,155.07
+403,non_vulnerable,2656,3773,88.52,125.74
+536,non_vulnerable,4070,5543,135.64,184.73
